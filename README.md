@@ -19,35 +19,6 @@ This project demonstrates dynamic cart management — users can **add products t
 
 ---
 
-## 🧠 Project Overview
-
-This project simulates essential e-commerce functionality using front-end logic only.  
-Data for products is loaded from a JavaScript file (`items.js`), and user actions are handled using DOM manipulation.  
-
----
-
-## 📁 Folder Structure
-Myntra-Functional-Clone-using-Javascript/
-│
-├── index.html # Main homepage displaying product cards
-├── pages/
-│ └── bag.html # Bag page displaying selected items
-│
-├── css/
-│ ├── index.css # Styling for main page
-│ └── bag.css # Styling for bag/cart page
-│
-├── data/
-│ └── items.js # Product data used to populate listings
-│
-├── js/
-│ └── script.js # Handles add/remove logic and DOM updates
-│
-└── images/ # Product and UI assets
-
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – Structure and layout  
@@ -82,9 +53,5 @@ Myntra-Functional-Clone-using-Javascript/
 
 📎 GitHub: [@chaitanyamore003](https://github.com/chaitanyamore003)
 
----
-
-### ⭐ If you liked this project  
-Consider giving it a **star** on GitHub — it helps support and motivate future projects!
 
 
